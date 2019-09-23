@@ -1,10 +1,8 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title: Edward Ruiz's website
+author: Ed2uiz
+email: ecr7407@gmail.com
 description: > # this means to ignore newlines until "show_excerpts:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Research scientist in stem cells, bioinformatics, and machine learning.
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
@@ -15,9 +13,9 @@ minima:
 
   # generate social links in footer
   social_links:
-    twitter: jekyllrb
-    github:  jekyll
-    rss: rss
+    twitter: Ed2uiz
+    github:  Ed2uiz
+    # rss: rss
     # dribbble: jekyll
     # facebook: jekyll
     # flickr:   jekyll
